@@ -6,11 +6,11 @@
 
 Exnoscan is a simple bash script that can help you identify gaps. We often monitor what we know, so Exnoscan aims to identify what you don’t. Exnoscan uses a bunch of tools to complete the job which are listed below:
 
-Sublist3r: https://github.com/aboul3la/Sublist3r.git
-Dirsearch: https://github.com/maurosoria/dirsearch.git
-Nmap: https://nmap.org/
-Nmap Parser: https://github.com/laconicwolf/Nmap-Scan-to-CSV.git
-TheHarvester: https://github.com/laramies/theHarvester
+- Sublist3r: https://github.com/aboul3la/Sublist3r.git
+- Dirsearch: https://github.com/maurosoria/dirsearch.git
+- Nmap: https://nmap.org/
+- Nmap Parser: https://github.com/laconicwolf/Nmap-Scan-to-CSV.git
+- TheHarvester: https://github.com/laramies/theHarvester
 
 
 ## Dependencies
